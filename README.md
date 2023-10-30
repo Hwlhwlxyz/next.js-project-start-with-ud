@@ -1,5 +1,6 @@
-name of next.js project cannot start with 'ud' (npx create-next-app@14.0.1)
+Name of next.js project cannot start with 'ud' (npx create-next-app@14.0.1).
 
+Please change the folder name to a string start with 'ud'.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
